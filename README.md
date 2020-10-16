@@ -3,18 +3,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanatanielnm&hide=blade,html&theme=tokyonight" />
 -->
 
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Joshua. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<samp>
+- Currently Information System student at ITATS
+- Explore about reactjs, nodejs, laravel, flutter
+- You can find me at via [Twitter](https://twitter.com/joshuanatanielm) or [LinkedIn](https://www.linkedin.com/in/joshua-manuputty-8a22ba186/)
+- Core organizer at surabayajs
+</samp>
 
-I am a software engineer based in Surabaya, Indonesia. With a greatest passion on web technologies like Laravel, Node, and React frameworks. Get in touch via email at clsjoshua@gmail.com, or You can find me on [![Twitter][1.2]][1]
 
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=joshuanatanielnm&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/joshuanatanielnm/joshuanatanielnm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanatanielnm&hide=blade,html&theme=tokyonight)](https://github.com/joshuanatanielnm/joshuanatanielnm)
 
 <!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/joshuanatanielnm
