@@ -4,13 +4,17 @@
 -->
 
 # Hello, I'm Joshua. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <samp>
+  
 - Currently Information System student at ITATS
+
 - Explore about reactjs, nodejs, laravel, flutter
+
 - You can find me at via [Twitter](https://twitter.com/joshuanatanielm) or [LinkedIn](https://www.linkedin.com/in/joshua-manuputty-8a22ba186/)
+
 - Core organizer at surabayajs
+
 </samp>
 
 
-
-<!-- Icons -->
