@@ -9,9 +9,11 @@
   
 - Currently Information System student at ITATS
 
-- Explore about reactjs, nodejs, laravel
+- Explore about reactjs, nodejs
 
 - You can find me at via [Twitter](https://twitter.com/joshuanatanielm) or [LinkedIn](https://www.linkedin.com/in/joshua-manuputty-8a22ba186/)
+
+- Also check my [Personal Website](https://joshuanatanielm.space)
 
 - Core organizer at surabayajs
 
