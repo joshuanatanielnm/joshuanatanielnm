@@ -8,7 +8,9 @@
 - Node
 - and the broader JS ecosystem
 
-My current passion and interests revolve around Web3 and Artificial Technology
+My current passion and interests revolve around Web3 and Artificial Technology.
+
+Check my [Resume](https://resume.io/r/fyzF2RrFm) for more information.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=joshuanatanielnm&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/joshuanatanielnm/github-readme-stats)
 
